@@ -54,33 +54,5 @@
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
     "id": "2"
-  },
-  {
-    "id": "1",
-    "text": "লিখো তোমার গল্প",
-    "fontSize": 30.0,
-    "fontFamily": "Atma",
-    "color": "#FFFFFF",
-    "bold": false,
-    "italic": false,
-    "underline": false,
-    "height": 1.0,
-    "letterSpacing": 0.0,
-    "wordSpacing": 1.0,
-    "opacity": 1.0,
-    "angle": 0.0,
-    "shadowBlur": 2.0,
-    "shadowColor": "#000000",
-    "shadowPosition": 0.0,
-    "textAlign": "center",
-    "offsetX": 0.0,
-    "offsetY": 0.0,
-    "textBackgroundColor": "#000000",
-    "textBackgroundOpacity": 0.0,
-    "textBackgroundRadius": 0.0,
-    "textBackgroundFullWidth": false,
-    "overlayColor": "#000000",
-    "overlayColorOpacity": 0.0,
-    "blur": 0.0
   }
 ]
