@@ -30,7 +30,7 @@
   },
   {
     "text": "\"..এই ইট কাঠ বালির শহরে তুমি  শুধু ভালোবাসার বর্ষা এনে দিও..\nকথা দিলাম..\nআগুন রঙা বসন্তে তোমায়\nফাগুন রঙে রাঙিয়ে দেব!\"",
-    "fontSize": 33.1,
+    "fontSize": 24.2,
     "fontFamily": "Ekushey Sornaly",
     "color": "#ffffffff",
     "bold": false,
@@ -59,7 +59,7 @@
   },
   {
     "text": "\"তুমি বরুণা হলে আমি সুনীল \nতুমি আকাশ হলে হবো শঙখচিল\"",
-    "fontSize": 28.6,
+    "fontSize": 18.4,
     "fontFamily": "Paapri",
     "color": "#ffffffff",
     "bold": false,
@@ -117,7 +117,7 @@
   },
   {
     "text": "এই মেঘলা দিনে একলা ঘরে\nথাকে না তো মন\nকাছে যাবো কবে পাবো ওগো\nতোমার নিমন্ত্রণ!",
-    "fontSize": 29.256474600897896,
+    "fontSize": 23.5,
     "fontFamily": "Matrahin",
     "color": "#ffffffff",
     "bold": false,
