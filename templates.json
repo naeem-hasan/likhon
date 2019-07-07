@@ -1,7 +1,7 @@
 [
   {
     "text": "\"প্রজাপতি টা যখন তখন\nউড়ে উড়ে ঘুরে ঘুরে\nরাঙা মেঘের মতন\nবসে আমার আকাশ জুড়ে...\"",
-    "fontSize": 14.422501458062065,
+    "fontSize": 24.0,
     "fontFamily": "Ekushey Saraswatii",
     "color": "#fffff3e5",
     "bold": true,
@@ -30,7 +30,7 @@
   },
   {
     "text": "\"..এই ইট কাঠ বালির শহরে তুমি  শুধু ভালোবাসার বর্ষা এনে দিও..\nকথা দিলাম..\nআগুন রঙা বসন্তে তোমায়\nফাগুন রঙে রাঙিয়ে দেব!\"",
-    "fontSize": 17.979903750949436,
+    "fontSize": 33.1,
     "fontFamily": "Ekushey Sornaly",
     "color": "#ffffffff",
     "bold": false,
@@ -59,7 +59,7 @@
   },
   {
     "text": "\"তুমি বরুণা হলে আমি সুনীল \nতুমি আকাশ হলে হবো শঙখচিল\"",
-    "fontSize": 16.03949935347946,
+    "fontSize": 28.6,
     "fontFamily": "Paapri",
     "color": "#ffffffff",
     "bold": false,
@@ -117,7 +117,7 @@
   },
   {
     "text": "এই মেঘলা দিনে একলা ঘরে\nথাকে না তো মন\nকাছে যাবো কবে পাবো ওগো\nতোমার নিমন্ত্রণ!",
-    "fontSize": 23.256474600897896,
+    "fontSize": 29.256474600897896,
     "fontFamily": "Matrahin",
     "color": "#ffffffff",
     "bold": false,
@@ -201,35 +201,6 @@
     "overlayColorOpacity": 0.5082832972208668,
     "blur": 0.0,
     "id": "5"
-  },
-  {
-    "text": "আমার মেঘলা আকাশ\nচাঁদের থেকে দূরে\nযেমন আছো তুমি\nআমার থেকে সরে\nমিলবে দেখা তোমার\nরাতের শেষে ভোরে\nকুয়াশা হয়ে রবো\nভোরের আকাশ জুড়ে",
-    "fontSize": 13.062301211886933,
-    "fontFamily": "BenSen Handwriting",
-    "color": "#ffffffff",
-    "bold": false,
-    "italic": false,
-    "underline": false,
-    "height": 1.0,
-    "letterSpacing": 0.0,
-    "wordSpacing": 1.0,
-    "opacity": 1.0,
-    "angle": 0.0,
-    "shadowBlur": 0.0,
-    "shadowColor": "#ff000000",
-    "shadowPosition": 0.0,
-    "shadowOpacity": 1.0,
-    "textAlign": "center",
-    "offsetX": 0.0,
-    "offsetY": 0.0,
-    "textBackgroundColor": "#ff000000",
-    "textBackgroundOpacity": 0.08179230160183376,
-    "textBackgroundRadius": 4.436355166965064,
-    "textBackgroundFullWidth": false,
-    "overlayColor": "#ff000000",
-    "overlayColorOpacity": 0.0,
-    "blur": 0.0,
-    "id": "4"
   },
   {
     "text": "তোমায় নিয়ে লিখে যাবো হাজার বছর\nতবু আমার কবিতার খাতা ফুরোবে না\nযদি কখনো তোমায় ভুলেও যাই\nতাও লিখতে পারবো হাজার পাতা",
