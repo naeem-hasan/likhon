@@ -26,6 +26,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "12"
   },
   {
@@ -55,6 +58,9 @@
     "overlayColor": "#FF000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "2"
   },
   {
@@ -84,6 +90,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.21355374654134104,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "6"
   },
   {
@@ -113,6 +122,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "11"
   },
   {
@@ -142,6 +154,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "3"
   },
   {
@@ -171,6 +186,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "10"
   },
   {
@@ -200,6 +218,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "9"
   },
   {
@@ -229,6 +250,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "8"
   },
   {
@@ -258,6 +282,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.0,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "7"
   },
   {
@@ -287,6 +314,9 @@
     "overlayColor": "#ff000000",
     "overlayColorOpacity": 0.5082832972208668,
     "blur": 0.0,
+    "strokeWidth": 0.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0,
     "id": "5"
   },
   {
@@ -316,6 +346,9 @@
     "textBackgroundFullWidth": false,
     "overlayColor": "#000000",
     "overlayColorOpacity": 0.0,
-    "blur": 0.0
+    "blur": 0.0,
+    "strokeWidth": 3.0,
+    "strokeColor": "#ff000000",
+    "strokeOpacity": 1.0
   }
 ]
